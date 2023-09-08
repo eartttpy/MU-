@@ -1,0 +1,95 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+
+}
+
+nav{
+    font-size: 3vW;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(55, 55, 130);
+}
+
+nav ul li {
+    list-style: none;
+    margin: 1rem 0.2rem;
+    
+}
+
+a{
+    padding: 1rem 0.5rem;
+    text-decoration: none;
+    color : black;
+    font-weight: bold;
+    font-family: Serif;
+}
+a:link{
+    color: rgb(255, 247, 165)
+}
+a:visited{
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(202, 181, 255);
+}
+a:active{
+
+    text-decoration: underline;
+    color: #ffa0d1;
+}
+
+p.heading{    
+    text-align: left;
+    text-decoration: underline;
+    background-color: azure;
+    width: fit-content;
+    margin: 1rem 6rem ;
+    padding: 1rem;
+    font-weight: bold;
+    font-size: 4rem;
+    font-family: Serif;
+}
+
+body{
+    background-image: url('https://i.pinimg.com/564x/e4/bb/dc/e4bbdc77edc9d93ffc5495562f3382b1.jpg');
+    background-size: cover;
+    background-position-x: center;
+    background-attachment: fixed;
+}
+
+div{
+    width: fit-content;
+    margin: 2rem;
+    padding: 1rem 0.5rem;
+    background-color: aliceblue;
+    border: 2px solid black;
+    border-radius: 40px;
+    font-size: 2rem;
+}
+a.box{
+    text-decoration: underline;
+}
+a.box:link{
+    color: rgb(237, 71, 0);
+}
+a.box:visited{
+    color: rgb(217, 76, 0);
+}
+a.box:hover{
+    text-decoration: underline;
+    color: rgb(255, 191, 222);
+}
+a.box:active{
+
+    text-decoration: underline;
+    color: #000000;
+}
+
+html{
+    font-size: calc(50% + 0.5vmin);
+}
