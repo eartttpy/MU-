@@ -11,7 +11,7 @@ nav{
 nav ul {
     display: flex;
     justify-content: center;
-    background-color: rgb(55, 55, 130);
+    background-color: rgb(62, 62, 127);
 }
 
 nav ul li {
@@ -28,10 +28,10 @@ a{
     font-family: Serif;
 }
 a:link{
-    color: rgb(255, 247, 165)
+    color: rgb(255, 255, 255)
 }
 a:visited{
-    color: rgb(255, 255, 255);
+    color: rgb(219, 255, 251);
 }
 a:hover{
     text-decoration: underline;
@@ -75,10 +75,10 @@ a.box{
     text-decoration: underline;
 }
 a.box:link{
-    color: rgb(237, 71, 0);
+    color: rgb(48, 66, 128);
 }
 a.box:visited{
-    color: rgb(217, 76, 0);
+    color: rgb(48, 66, 128);
 }
 a.box:hover{
     text-decoration: underline;
