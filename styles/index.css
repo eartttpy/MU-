@@ -11,7 +11,7 @@ nav{
 nav ul {
     display: flex;
     justify-content: center;
-    background-color: #18468C;
+    background-color: #6e04f9;
 }
 
 nav ul li {
@@ -61,7 +61,7 @@ div.text-1{
 div.text-2{
     margin-top: 2rem;
     padding: 1rem ;
-    color: #ff3232;
+    color: #3932ff;
     background-color : rgb(255, 255, 255);
 }
 

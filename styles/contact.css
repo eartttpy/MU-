@@ -11,7 +11,7 @@ nav{
 nav ul {
     display: flex;
     justify-content: center;
-    background-color: #18468C;
+    background-color: #6e04f9;
 }
 
 nav ul li {
@@ -75,10 +75,10 @@ a.box{
     text-decoration: underline;
 }
 a.box:link{
-    color: #18468C;
+    color: #6e04f9;
 }
 a.box:visited{
-    color: #18468C;
+    color: #6e04f9;
 }
 a.box:hover{
     text-decoration: underline;
